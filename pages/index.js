@@ -5,7 +5,6 @@ function Home() {
     return(
         <div style={{ display: "flex", flexDirection: "column", gap: 40 }}>
             <div>
-                <h1>Index</h1>
                 <p style={{fontSize:24, fontFamily: '"ui-monospace", "SFMono-Regular", Menlo, Consolas', color:"darkgreen"}}>Hello World!</p>      
                 <p style={{ margin: 0, fontSize: 24, fontFamily: '"Palatino Linotype","Book Antiqua",Palatino,"Apple Chancery","Segoe Script"', lineHeight: 1.5 }}>
                     “If you wish to make an apple pie from scratch, you must first invent the universe”{" "}
