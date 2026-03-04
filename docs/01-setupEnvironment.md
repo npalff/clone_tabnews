@@ -1,4 +1,4 @@
-> "If you wish to make an apple pie from scratch you must first invent the universe" [Carl Sagan](https://youtu.be/s4VIc8Qt5xM?si=Vo2EzpAuIeQxphGH)
+> "If you wish to make an apple pie from scratch, you must first invent the universe" [Carl Sagan](https://youtu.be/s4VIc8Qt5xM?si=Vo2EzpAuIeQxphGH)
 
 
 # Setup Environment
