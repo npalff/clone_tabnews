@@ -7,6 +7,7 @@ Web development of a clone portal (https://www.tabnews.com.br) following it E2E.
 In the terminal run the following command to run the project locally.
 
 ```
+    npm install
     npm run <script name> (scripts from /package.json)
     e.g.: npm run dev
 ```
