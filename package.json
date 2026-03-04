@@ -1,0 +1,20 @@
+{
+  "name": "clone_tabnews",
+  "version": "1.0.0",
+  "description": "Web development of a clone portal (https://www.tabnews.com.br) following it E2E.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
